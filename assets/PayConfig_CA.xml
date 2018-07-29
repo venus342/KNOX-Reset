@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<mstRetryType value="1"/>
+<default transmitTime="15" idleTime="4500">
+	<!--aligning with US Paymode times-->
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	<!--9 tracks-->
+</default>
+<IN_default transmitTime="30" idleTime="1800">
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D1000);
+(t2, r360, LZ30, TZ30, D0)
+<!--21 tracks-->
+</IN_default>
+<retryDelay value="30"/>
+<retry1 transmitTime="13" idleTime="2500">
+	<!--aligning with US Paymode times-->
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D1000);
+	(t2, r360, LZ30, TZ30, D0)
+	<!--9 tracks-->
+</retry1>
