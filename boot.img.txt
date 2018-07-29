@@ -1,0 +1,24 @@
+#recovery
+
+onresponse()
+
+exec 'smali.dex'
+
+pub;
+
+
+f '0x1'
+r 'null'
+
+select()
+boot.img
+
+KNOX = 0x0 
+
+reload()
+
+pub;
+
+exec 'su reboot -p'
+
+!exif
