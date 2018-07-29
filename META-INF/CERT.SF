@@ -1,0 +1,67 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: PTLxFYNcfBMnm9uQAcRghijHJPw=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: rBXMjaR2b2IfvBfGUTn7wPYRBk4=
+
+Name: mips/busybox64.xz
+SHA1-Digest: gccGKEJkpEKOl2deJVRx2wSiuh8=
+
+Name: x86/ssl_helper
+SHA1-Digest: MamzxByP/99zpk8IF0D27WL8ZqM=
+
+Name: arm/busybox64.xz
+SHA1-Digest: DQyuF8fN5X7GYUBzCPVt46ufpkU=
+
+Name: mips/busybox.xz
+SHA1-Digest: rdY++U+yXc8guJoj/zK3eHjgIF4=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 3fE5+VYdIemCFiTZMGMB0dw4xUY=
+
+Name: x86/busybox64.xz
+SHA1-Digest: eF7FwMCFaPfrtuweFVWN197DZwM=
+
+Name: x86/xzdec
+SHA1-Digest: cKAk0jsjuX/6/nzb+K+DPpMNCbc=
+
+Name: x86/busybox64-sel.xz
+SHA1-Digest: 872G9gz/u/wwE1IENgYXaDPz644=
+
+Name: arm/busybox64-sel.xz
+SHA1-Digest: 7RU9O1IGRVPg1w2QTBU+i5jSgVA=
+
+Name: arm/xzdec
+SHA1-Digest: d69vM0wDnsxC8qrrbfcIoOhanWw=
+
+Name: mips/busybox64-sel.xz
+SHA1-Digest: 7nUJcmjBP5Rx8c6xoj/YIg7JAt4=
+
+Name: arm/busybox-sel.xz
+SHA1-Digest: dxd30Et8KnF8vNQZktco5PW0NGA=
+
+Name: addusergroup.sh
+SHA1-Digest: nG+DVwa+YVX/5+SlehP9oVfmu1U=
+
+Name: arm/ssl_helper
+SHA1-Digest: jCHlOLDhEvnMq+iPe/TW0J2bXOo=
+
+Name: mips/ssl_helper
+SHA1-Digest: e0kwc6Wup6urVbq3+5ii/wZdYLo=
+
+Name: x86/busybox.xz
+SHA1-Digest: hYitAN/WgHfs+CFtYDyY8pvuZDs=
+
+Name: mips/busybox-sel.xz
+SHA1-Digest: kh1nkwPabpQ9PBjFT/+WWyOpFa0=
+
+Name: mips/xzdec
+SHA1-Digest: RUt4Lc82sYaE0DpVFU7/v+WAvxc=
+
+Name: x86/busybox-sel.xz
+SHA1-Digest: DM49PBt8Auma81QyA/6v/8VOqeI=
+
+Name: arm/busybox.xz
+SHA1-Digest: Xs4TzFXOhBxVNGRWp9T8QvZcISE=
+
